@@ -1,0 +1,4 @@
+{
+	"cmd" : ["python", "dbexec_run.py", "$file"],
+	"selector": "source.sql"
+}

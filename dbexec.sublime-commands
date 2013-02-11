@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "DbExec: Execute sql"
+	,	"command": "dbexec_execute"
+	}
+]

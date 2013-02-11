@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "Dbexec",
+			"description": "Execute db sql on Sublime Text 2",
+			"author": "Jiri Zlatov",
+			"homepage": "https://github.com/tjerabek/sublime-dbexec",
+			"last_modified": "2013-01-10 10:10:10",
+			"platforms": {
+				"osx": [
+					{
+						"version": "1.0.3",
+						"url": "https://github.com/tjerabek/sublime-dbexec"
+					}
+				]
+			}
+		}
+	]
+}
