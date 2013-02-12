@@ -4,14 +4,14 @@
 		{
 			"name": "Dbexec",
 			"description": "Execute db sql on Sublime Text 2",
-			"author": "Jiri Zlatov",
-			"homepage": "https://github.com/tjerabek/sublime-dbexec",
+			"author": "yurkaz",
+			"homepage": "https://github.com/yurkaz/sublime-dbexec",
 			"last_modified": "2013-01-10 10:10:10",
 			"platforms": {
 				"osx": [
 					{
 						"version": "1.0.3",
-						"url": "https://github.com/tjerabek/sublime-dbexec"
+						"url": "https://github.com/yurkaz/sublime-dbexec"
 					}
 				]
 			}
